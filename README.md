@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Sean Yoo's github stats](https://github-readme-stats.vercel.app/api?username={solusean(string)}&count_private={true(bool)}&custom_title={Sean's Github Status(string)}&bg_color={white}&title_color={black(hex)}&text_color={black(hex)})](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={solusean(string)})](https://github.com/anuraghazra/github-readme-stats)
