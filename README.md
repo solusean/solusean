@@ -1,7 +1,7 @@
 
  
 ### Hi there, I'm Sean👋
-📫 | oceansky365@gmail.com <br>
+📫 |  <br>
 
 <div align = center><h4>📚 STACKS 📚 </h4> <div>
 <div aligen = center><h5>Techs that I've used at least once </h5> <div>
