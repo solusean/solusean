@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sean Yoo's github stats](https://github-readme-stats.vercel.app/api?username={solusean(string)}&count_private={true(bool)}&custom_title={Sean's Github Status(string)}&bg_color={white}&title_color={black(hex)}&text_color={black(hex)})](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=wave&color=&height=150&section=header&text=Sean%20Yoo&fontSize=75)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={solusean(string)})](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo-Spring&logoColor-white"/>
+
+
+![Sean Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=solusean&show_icons=true&theme=white)   
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusean&layout=compact&theme=white)
