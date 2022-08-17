@@ -8,8 +8,7 @@
 <br>
 <br>
 
-![Sean Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=solusean&show_icons=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusean&layout=compact&theme=white)
+
 
 <div align = center><h4>📚 STACKS 📚 </h4> <div>
 <div aligen = center><h5>Techs that I've used at least once </h5> <div>
@@ -31,7 +30,8 @@
 <!-- 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=&height=150&section=header&text=Sean%20Yoo&fontSize=75) 
-
+![Sean Yoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=solusean&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solusean&layout=compact&theme=white)
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
